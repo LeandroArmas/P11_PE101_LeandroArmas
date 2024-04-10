@@ -11,3 +11,5 @@
     <img alt="Sonar badge" src="https://sonarcloud.io/api/project_badges/measure?project=LeandroArmas_P11_PE101_LeandroArmas&metric=alert_status">
   </a>
 </p>
+
+El sonarcloud obviamente fallará porque no hay cubrimiento para todo el código, ya que utilizo código antiguo y los tests que tengo son para lo nuevo requerido en la modificacion.
