@@ -1,4 +1,4 @@
-# Práctica 11
+# Práctica 11 - PE101
 
 <p align="center">
   <a href="https://github.com/LeandroArmas/P11_PE101_LeandroArmas/actions/workflows/node.js.yml">
@@ -11,15 +11,3 @@
     <img alt="Sonar badge" src="https://sonarcloud.io/api/project_badges/measure?project=LeandroArmas_P11_PE101_LeandroArmas&metric=alert_status">
   </a>
 </p>
-
-## Índice
-
-## Introducción
-
-## Estructura
-
-## Desarrollo
-
-## Modificación
-
-## Conclusiones
